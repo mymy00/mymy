@@ -1,0 +1,14 @@
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\bin\Debug\net8.0\mylen.exe
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\bin\Debug\net8.0\mylen.deps.json
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\bin\Debug\net8.0\mylen.runtimeconfig.json
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\bin\Debug\net8.0\mylen.dll
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\bin\Debug\net8.0\mylen.pdb
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\obj\Debug\net8.0\mylen.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\obj\Debug\net8.0\mylen.AssemblyInfoInputs.cache
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\obj\Debug\net8.0\mylen.AssemblyInfo.cs
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\obj\Debug\net8.0\mylen.csproj.CoreCompileInputs.cache
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\obj\Debug\net8.0\mylen.dll
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\obj\Debug\net8.0\refint\mylen.dll
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\obj\Debug\net8.0\mylen.pdb
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\obj\Debug\net8.0\mylen.genruntimeconfig.cache
+c:\Users\mylen\Documents\Flutter\TextField\flutter_application_1\mylen\obj\Debug\net8.0\ref\mylen.dll
